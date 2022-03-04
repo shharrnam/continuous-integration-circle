@@ -13,7 +13,7 @@ jobs:
           name: build the jekyll site
           command: "curl --location --request POST 'https://api.github.com/repos/sharnam19/continuous-integration-circle/deployments' \
 --header 'Accept: application/vnd.github.v3+json' \
---header 'Authorization: Bearer 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' \
+--header 'Authorization: Bearer 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' \
 --header 'Content-Type: application/json' \
 --data-raw '{
     \"ref\":\"1.0.0\",
