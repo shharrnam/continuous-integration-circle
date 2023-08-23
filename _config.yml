@@ -2,7 +2,7 @@ title: My docs
 description: An awesome docs project
 permalink: pretty
 search_enabled: true
-color_scheme: 2dark
+color_scheme: dark
 
 remote_theme: pmarsceill/just-the-docs
 plugins:
