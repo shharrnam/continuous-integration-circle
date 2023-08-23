@@ -10,6 +10,7 @@ You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
 
 Changed these
+
 [minima](https://github.com/jekyll/minima)
 
 asd
